@@ -18,7 +18,7 @@ This is a simple Receipt Generator application written in Ruby.
 1. Clone the repository.
 
 ```
-git clone https://github.com/yourusername/receipt-generator.git
+git clone https://github.com/Jhon112/receipt-generator.git
 ```
 
 2. Change into the project directory.
@@ -33,10 +33,10 @@ cd receipt-generator
 rspec
 ```
 
-4. To run the app please make sure to first update the "lib/main.rb" file's permissions to wroks as an exectuable. To do this run:
+4. To run the app please make sure to first update the "lib/main.rb" file's permissions to works as an exectuable. To do this run:
 
 ```
-chmod +x /lib/main.rb
+chmod +x lib/main.rb
 ```
 
 5. Run the exectuable file by running the following command:
