@@ -1,0 +1,44 @@
+[
+  {
+    "name": "book",
+    "price": 12.49,
+    "exempt": true,
+    "imported": false
+  },
+  {
+    "name": "music CD",
+    "price": 14.99,
+    "exempt": false,
+    "imported": false
+  },
+  {
+    "name": "chocolate bar",
+    "price": 0.85,
+    "exempt": true,
+    "imported": false
+  },
+  {
+    "name": "bottle of perfume",
+    "price": 18.99,
+    "exempt": false,
+    "imported": false
+  },
+  {
+    "name": "packet of headache pills",
+    "price": 9.75,
+    "exempt": true,
+    "imported": false
+  },
+  {
+    "name": "imported box of chocolates",
+    "price": 11.25,
+    "exempt": true,
+    "imported": true
+  },
+  {
+    "name": "imported bottle of perfume",
+    "price": 27.99,
+    "exempt": false,
+    "imported": true
+  }
+]
